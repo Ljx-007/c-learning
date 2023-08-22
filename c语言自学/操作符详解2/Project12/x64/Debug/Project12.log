@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(8,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(8,9): message : 请考虑在格式字符串中使用“%zu”
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(9,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(9,9): message : 请考虑在格式字符串中使用“%zu”
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(10,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\Project12\test.c(10,9): message : 请考虑在格式字符串中使用“%zu”
+  Project12.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\操作符详解2\x64\Debug\Project12.exe
