@@ -1,9 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(game1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  game.c
-C:\Users\林嘉曦\Documents\c语言自学\Project11\三子棋\game.c(87,7): warning C4013: “rand”未定义；假设外部返回 int
-  test11.c
-C:\Users\林嘉曦\Documents\c语言自学\Project11\三子棋\test11.c(22,2): warning C4013: “InitBoard”未定义；假设外部返回 int
-C:\Users\林嘉曦\Documents\c语言自学\Project11\三子棋\test11.c(34,3): warning C4013: “Sleep”未定义；假设外部返回 int
-C:\Users\林嘉曦\Documents\c语言自学\Project11\三子棋\test11.c(62,3): warning C4013: “srand”未定义；假设外部返回 int
-  正在生成代码...
-  三子棋.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\Project11\x64\Debug\井字棋游戏.exe
