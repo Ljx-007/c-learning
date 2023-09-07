@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\指针详解4\Project10\test.c(11,21): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  Project10.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\指针详解4\x64\Debug\Project10.exe

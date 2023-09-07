@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\初始指针1\Project12\test.c(7,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  Project12.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\初始指针1\x64\Debug\Project12.exe
