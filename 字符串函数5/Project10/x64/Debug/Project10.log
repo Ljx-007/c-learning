@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\字符串函数5\Project10\test.c(53,11): warning C4133: “<”: 从“const char *”到“void *”的类型不兼容
+C:\Users\林嘉曦\Documents\c语言自学\字符串函数5\Project10\test.c(61,16): warning C4133: “>”: 从“const char *”到“void *”的类型不兼容
+C:\Users\林嘉曦\Documents\c语言自学\字符串函数5\Project10\test.c(79,21): warning C4133: “函数”: 从“int *”到“const char *”的类型不兼容
+  Project10.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\字符串函数5\x64\Debug\Project10.exe
