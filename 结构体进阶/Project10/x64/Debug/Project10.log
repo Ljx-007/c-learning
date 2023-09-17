@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\结构体进阶\Project10\test.c(97,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\林嘉曦\Documents\c语言自学\结构体进阶\Project10\test.c(97,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\林嘉曦\Documents\c语言自学\结构体进阶\Project10\test.c(98,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\林嘉曦\Documents\c语言自学\结构体进阶\Project10\test.c(98,9): message : 请考虑在格式字符串中使用“%zd”
+  Project10.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\结构体进阶\x64\Debug\Project10.exe
