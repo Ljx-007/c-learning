@@ -1,0 +1,10 @@
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=0
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=1
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=2
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=3
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=4
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=5
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=6
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=7
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=8
+file:C:\Users\林嘉曦\Documents\c语言自学\c语言预处理2\Project10\test.c  line:42  date:Oct  3 2023  time:17:06:12  i=9
