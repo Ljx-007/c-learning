@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\c语言自学\c语言预处理4\c语言预处理4\test.c(123,39): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+C:\Users\林嘉曦\Documents\c语言自学\c语言预处理4\c语言预处理4\test.c(124,38): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+C:\Users\林嘉曦\Documents\c语言自学\c语言预处理4\c语言预处理4\test.c(125,39): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+  c语言预处理4.vcxproj -> C:\Users\林嘉曦\Documents\c语言自学\c语言预处理4\x64\Debug\c语言预处理4.exe
